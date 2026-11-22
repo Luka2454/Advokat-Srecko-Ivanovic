@@ -1,0 +1,5 @@
+# Sajt je trenutno TEST verzija. Kad postane pravi, obriši "Disallow: /" i ostavi "Allow: /".
+User-agent: *
+Disallow: /
+
+Sitemap: https://www.advokativanovic.rs/sitemap.xml
